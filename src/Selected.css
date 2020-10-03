@@ -1,0 +1,10 @@
+
+ .background {
+    background: url("https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80");/* transparent png image */
+    opacity: 0.9;
+    box-shadow: inset 0 0 0 100px rgba(36, 70, 105, 0.74);
+    position: relative;
+    text-align: center;
+    padding: 72px 0px;
+    width:100%;
+ }

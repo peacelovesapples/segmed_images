@@ -3,9 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 import Gallery from './Gallery';
+import SelectedGalleryCont from "./SelectedGalleryCont"
+import GalleryCont from './GalleryCont';
 
 ReactDOM.render(
-    <Gallery/>,
+   //<SelectedGalleryCont/>,
+   <Gallery/>,
   document.getElementById('root')
 );
 
